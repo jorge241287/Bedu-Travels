@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+nav{
+  height: 10vh;
+  background-color: black;
+  padding-top: 10px;
+}
+
+nav > a {
+  color: white;
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+}
